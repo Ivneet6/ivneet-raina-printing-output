@@ -41,3 +41,17 @@ output += '!a || !c: ' + (!a || !c) +'\n';
 
 alert(output); 
 
+
+//TASK 2
+
+let first_name = 'Ivneet';
+let last_name = 'Raina';
+
+let email = 'rain0071@algonquinlive.com';
+
+let sentence='"' +'My name is' + ' ' + first_name + ' ' + last_name + '. ' + 'You can contact me at'+ ' ' + email + '.' + '"';
+
+
+alert(sentence);
+
+
