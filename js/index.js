@@ -21,25 +21,25 @@ let output = 'let a = 3;\nlet b = 5;\nlet c\n-----------\n';
 
 
 
-output += 'a + b = ' + (sum) +'\n';
-output += 'a - b = ' + (sub) +'\n';
-output += 'a * b = ' + (multi) +'\n';
-output += 'a / b = ' + (divide) +'\n';
-output += 'a % b = ' + (remainder) +'\n';
-output += 'a += b = ' + (sum) +'\n';
-output += 'a -= b = ' + (a) +'\n';
-output += 'a *= b = ' + (multi) +'\n';
-output += 'a /= b = ' + (a) +'\n';
-output += 'a %= b = ' + (a) +'\n';
-output += 'a == b: ' + (a==b) +'\n';
-output += 'a != b: ' + (a!=b) +'\n';
-output += 'a > b: ' + (a > b) +'\n';
-output += 'a < b: ' + (a < b) +'\n';
-output += '!a && !c: ' + (!a && !c) +'\n';
-output += '!a || !c: ' + (!a || !c) +'\n';
+output += 'a + b = ' + (sum) + '\n';
+output += 'a - b = ' + (sub) + '\n';
+output += 'a * b = ' + (multi) + '\n';
+output += 'a / b = ' + (divide) + '\n';
+output += 'a % b = ' + (remainder) + '\n';
+output += 'a += b = ' + (sum) + '\n';
+output += 'a -= b = ' + (a) + '\n';
+output += 'a *= b = ' + (multi) + '\n';
+output += 'a /= b = ' + (a) + '\n';
+output += 'a %= b = ' + (a) + '\n';
+output += 'a == b: ' + (a == b) + '\n';
+output += 'a != b: ' + (a != b) + '\n';
+output += 'a > b: ' + (a > b) + '\n';
+output += 'a < b: ' + (a < b) + '\n';
+output += '!a && !c: ' + (!a && !c) + '\n';
+output += '!a || !c: ' + (!a || !c) + '\n';
 
 
-alert(output); 
+alert(output);
 
 
 //TASK 2
@@ -49,9 +49,10 @@ let last_name = 'Raina';
 
 let email = 'rain0071@algonquinlive.com';
 
-let sentence='"' +'My name is' + ' ' + first_name + ' ' + last_name + '. ' + 'You can contact me at'+ ' ' + email + '.' + '"';
+let sentence = '"' + 'My name is' + ' ' + first_name + ' ' + last_name + '. ' + 'You can contact me at' + ' ' + email + '.' + '"';
 
 
 alert(sentence);
+
 
 
