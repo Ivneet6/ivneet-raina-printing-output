@@ -17,7 +17,7 @@ let remainder = a % b
 
 
 
-let output = 'let a = 3;\nlet b = 5;\nlet c\n-----------\n\n\n';
+let output = 'let a = 3;\nlet b = 5;\nlet c\n-----------\n\n';
 
 
 output += 'a + b = ' + (sum) + '\n';
